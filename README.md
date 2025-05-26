@@ -26,9 +26,12 @@ Fecha : 14/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
+Github: evalm04
+
 Twitter:
+
 Instagram:
+
 Tiktok:
 
 ## 2. Memoria del proyecto
@@ -82,9 +85,13 @@ Enlace al vídeo explicativo:
 [(Vídeo)](https://drive.google.com/file/d/1nbikDDg_Nv221kaddCcxMEogjYZ_Sk_u/view?usp=sharing)
 
 Menún y elementos de nacegación:
+
 Barra lateral de navegación con 3 botones: "Evolutions", "Sonidos" y "Juego".
+
 Accesos directos mediantes imágenes que actúan como botones: Eevee y Mawile.
+
 Botones de retroceso, navegación, ver y ocultar.
+
 Botones de selección de personaje.
 
 Etapa 3: Problemas identificados
