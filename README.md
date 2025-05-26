@@ -25,13 +25,9 @@ Tamaño proyecto: 6.8 MB
 Fecha : 14/05/2025
 
 Medios (donde se tiene presencia relacionada):
-
 Github: evalm04
-
 Twitter:
-
 Instagram:
-
 Tiktok:
 
 ## 2. Memoria del proyecto
