@@ -95,7 +95,7 @@ Etapa 3: Problemas identificados
 Al desplegar no funcionan las flechas para mover al personaje en el juego y solo se puede jugar una vez de manera correcta, ya que parece que al mover uno de los muñecos se mueve el otro también y hay que devolver el muñeco a la posición original una vez terminemos el juego.
 
 ## 4. Conclusiones
-Me gustaría solucionar algunos pequeños errores como que al desplegar no funcionan las flechas para mover al personaje en el juego y solo se puede jugar una vez de manera correcta. Por lo demás todo parece funcionar bién y estoy contenta con el resultado.
+Me gustaría solucionar algunos pequeños errores como que al desplegar no funcionan las flechas para mover al personaje en el juego y solo se puede jugar una vez de manera correcta. Por lo demás todo parece funcionar bien y estoy contenta con el resultado.
 
 ## 5 Referencias
 Recursos y materiales audiovisuales:
