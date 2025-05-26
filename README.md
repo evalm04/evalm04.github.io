@@ -43,21 +43,27 @@ Finalmente, si clicamos en el tipo "SINIESTRO" se nos lleva a una página con di
 
 ### 2.2. Esquema de navegación
 Página inicial:
+
 ![image](https://github.com/user-attachments/assets/a9e9fc24-839d-4c90-8a34-cdb007bd4923)
 
 Tipo:
+
 ![image](https://github.com/user-attachments/assets/2be2dba9-b478-4d96-9c15-9ca1e7d74a10)
 
 Pokémon:
+
 ![image](https://github.com/user-attachments/assets/2a4c80c7-e651-41b3-8414-bc539ca006c3)
 
 Evolutions:
+
 ![image](https://github.com/user-attachments/assets/3fa7b55d-0197-49a4-b130-7e8aa7c0637e)
 
 Sonidos:
+
 ![image](https://github.com/user-attachments/assets/e3bac424-9401-4aff-8250-a3401172c8c6)
 
 Juego:
+
 ![image](https://github.com/user-attachments/assets/f6a6bbc6-c473-4321-8daf-3a7fb3725fc4)
 ![image](https://github.com/user-attachments/assets/4dc98f22-464d-4521-b5c9-bf8d2689bcd4)
 ![image](https://github.com/user-attachments/assets/75bdcbd6-8d05-44a9-9db6-011bb60ba138)
@@ -71,8 +77,9 @@ Orientado a un público de cualquier edad con interes en pokémon y/o en el arte
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Vídeo explicativo:
+Enlace al vídeo explicativo:
 
+[url](https://drive.google.com/file/d/1nbikDDg_Nv221kaddCcxMEogjYZ_Sk_u/view?usp=sharing)
 
 Menún y elementos de nacegación:
 Barra lateral de navegación con 3 botones: "Evolutions", "Sonidos" y "Juego".
