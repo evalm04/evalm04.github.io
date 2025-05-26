@@ -79,7 +79,7 @@ Etapa 2: Desarrollo / actividades realizadas
 
 Enlace al vídeo explicativo:
 
-[url](https://drive.google.com/file/d/1nbikDDg_Nv221kaddCcxMEogjYZ_Sk_u/view?usp=sharing)
+[url Vídeo](https://drive.google.com/file/d/1nbikDDg_Nv221kaddCcxMEogjYZ_Sk_u/view?usp=sharing)
 
 Menún y elementos de nacegación:
 Barra lateral de navegación con 3 botones: "Evolutions", "Sonidos" y "Juego".
